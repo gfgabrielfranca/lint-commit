@@ -31,7 +31,7 @@ This project was developed based on the [RocketSeat video](https://www.youtube.c
 - [commitlint](https://commitlint.js.org/)
 - [Husky](https://github.com/typicode/husky)
 
-## :information_source: How To Use
+## 🤔 How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) + [Yarn v1.21](https://yarnpkg.com/) or higher installed on your computer. From your command line:
 
